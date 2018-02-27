@@ -1,3 +1,5 @@
 Changes tracker - started 2018-02-27
 
 DA - uploaded initial model and text file for testing purposes
+
+DA - Switched Distributed PV allocations to "Null"
